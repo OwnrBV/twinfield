@@ -1,5 +1,5 @@
 {
-  "name": "OwnrBV/twinfield",
+  "name": "ownr_bv/twinfield",
   "type": "library",
   "description": "Library for using the Twinfield Soap Service. Fork from https://github.com/php-twinfield/twinfield with Due Date in SalesTransaction.",
   "keywords": [
